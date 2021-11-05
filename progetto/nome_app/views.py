@@ -58,6 +58,6 @@ def view_c(request):
         <li>
         <a href="../view_c">vista c<a>
         </li>
-    </ul
+    </ul>
     
     """)
